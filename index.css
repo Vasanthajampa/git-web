@@ -1,0 +1,22 @@
+h2{
+    text-align: center;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: orange;
+}
+.container {
+    padding: 30px;
+    max-width: 400px;
+    margin: 60px auto;
+    background: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+}
+.forms{
+    padding: 10px;
+    background: whitesmoke;
+}
+.forms-label{
+    padding:20px
+}
